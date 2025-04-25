@@ -2,6 +2,8 @@
 
 A modern task management application built with React Native and Expo, featuring a clean and intuitive interface for managing tasks across different views.
 
+[View on GitHub](https://github.com/enikfar/TaskManagerApp)
+
 ## Features
 
 - **Task Management**
@@ -33,7 +35,7 @@ A modern task management application built with React Native and Expo, featuring
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TaskManagerApp.git
+git clone https://github.com/enikfar/TaskManagerApp.git
 cd TaskManagerApp
 ```
 
